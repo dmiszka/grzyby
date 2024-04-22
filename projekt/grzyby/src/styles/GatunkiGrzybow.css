@@ -1,0 +1,42 @@
+.gatunki-grzybow {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.gatunki-grzybow h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.gatunki-grzybow ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.gatunki-grzybow li {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+
+.gatunki-grzybow h2 {
+    font-size: 18px;
+    margin-top: 0;
+}
+
+.gatunki-grzybow img {
+    width: 250px;
+    height: 250px;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.gatunki-grzybow p {
+    font-size: 14px;
+    margin-top: 10px;
+}

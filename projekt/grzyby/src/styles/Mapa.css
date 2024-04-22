@@ -1,0 +1,15 @@
+.mapa-container {
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+    height: 39em;
+}
+
+.par {
+    text-align: center;
+}
+
+.mapa {
+    width: 100%;
+    overflow: hidden;
+}
